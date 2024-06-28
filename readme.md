@@ -13,17 +13,17 @@
 🅰 Use Font Embed
 
 #### Header
-1️⃣ Responsive Navbar use hamburger input button type checkbox
-2️⃣ Bg Header using keyframes using text and img
+<p>1️⃣ Responsive Navbar use hamburger input button type checkbox</p>
+<p>2️⃣ Bg Header using keyframes using text and img</p>
 
 #### Main
-3️⃣ Service use Flex Card, lil transform n transition
-4️⃣ Grid container image use various effect, just try it
+<p>3️⃣ Service use Flex Card, lil transform n transition</p>
+<p>4️⃣ Grid container image use various effect, just try it</p>
 
 ##### All use mobile view 📱
 
 ## Deployment : https://gorgeous-torte-99caf7.netlify.app/
 
-🙌 From Ardian
-👨‍💻 Trying to become a software engineer
+<p>🙌 From Ardian</p>
+<p>👨‍💻 Trying to become a software engineer</p>
 
