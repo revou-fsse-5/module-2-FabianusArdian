@@ -1,28 +1,29 @@
-# Hi Engineer, I'm Ardian 🪐
+# Hi Engineer, TAF SOLUTIONS 🌐
+
 <br>
-<img align="center" src="Assets/img/astronaut-space.gif">
+<img align="center" src="Assets/img/world.gif">
 
-# Assigment Website Project
+## CheckPoint 2 Website Project
 
-<p>This website is a website project built with HTML. This project takes the theme of the solar system, explaining various things about space. </p>
+<p>This website is a website project built with HTML. This project takes the theme IT Generalist 😁</p>
 
-## About me 
-- 👀 I’m interested in Web 3 & BlockChain
-- 📚 I’m currently learning how to be Software Engineer
-- 🌍 I'm from Solo 
-- 👨‍💻 I'm RevoU Student
-- 🎮 I like playing video games
+### Structure Website Project
 
-<p>I am an IT enthusiast who likes many things, especially Web3, Web3 will bring a new era.</p>
+#### Font
+🅰 Use Font Embed
 
-> _"To Infinity and Beyond”_ - Buzz LightYear
+#### Header
+1️⃣ Responsive Navbar use hamburger input button type checkbox
+2️⃣ Bg Header using keyframes using text and img
 
-### 🛠 **Software & Tools**
+#### Main
+3️⃣ Service use Flex Card, lil transform n transition
+4️⃣ Grid container image use various effect, just try it
 
-<p>
-    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge">
-</p>
+##### All use mobile view 📱
+
+## Deployment : https://gorgeous-torte-99caf7.netlify.app/
 
 🙌 From Ardian
+👨‍💻 Trying to become a software engineer
 
