@@ -1,1 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2BREHFic)
+# Hi Engineer, TAF SOLUTIONS 🌐
+
+<br>
+<img align="center" src="Assets/img/world.gif">
+
+## CheckPoint 2 Website Project
+
+<p>This website is a website project built with HTML. This project takes the theme IT Generalist 😁</p>
+
+### Structure Website Project
+
+#### Font
+🅰 Use Font Embed
+
+#### Header
+<p>1️⃣ Responsive Navbar use hamburger input button type checkbox</p>
+<p>2️⃣ Bg Header using keyframes using text and img</p>
+
+#### Main
+<p>3️⃣ Service use Flex Card, lil transform n transition</p>
+<p>4️⃣ Grid container image use various effect, just try it</p>
+
+##### All use mobile view 📱
+
+## Deployment : https://gorgeous-torte-99caf7.netlify.app/
+
+<p>🙌 From Ardian</p>
+<p>👨‍💻 Trying to become a software engineer</p>
+
